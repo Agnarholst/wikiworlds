@@ -8,7 +8,6 @@ var app = builder.Build();
 
 string? connString = Environment.GetEnvironmentVariable("AEDRASBANE_DB");
 
-Console.WriteLIne($"DEBUG: Connection string is: {connString}");
-
+Console.WriteLine($"DEBUG: Connection string is: {connString}");
 
 
