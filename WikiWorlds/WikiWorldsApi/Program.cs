@@ -10,4 +10,6 @@ string? connString = Environment.GetEnvironmentVariable("AEDRASBANE_DB");
 
 Console.WriteLine($"DEBUG: Connection string is: {connString}");
 
+// Testkommentar for å se om jeg kan pushe fra mac
+
 
