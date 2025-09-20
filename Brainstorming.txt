@@ -1,0 +1,21 @@
+Agnars Tanker om prosjektet
+
+MVP - Minimum Viable Product
+Foreløpig skal WikiWorlds være en enkel Wiki vi kan bruke for forskjellige skriveprosjekter. En verden for hver bok. Man skal kunne lage en verden/bok og putte inn alt fra karakterer
+til steder og objekter. Dette gjøre gjennom et brukergrensesnitt i frontenden laget med React, også foregår alt av backenden i C# og PostgreSQL. Man skal også kunne søke
+opp karakterer og rett og slett navigere rundt i Wikien litt som Wikipedia eller hvilken som helst fandom-wiki på nettet.  
+
+Personlig bruker vi den til Ædrasbane, men kanskje i demo-mode ute på github så kan det være Ringenes Herre eller Harry Potter? Idk... 
+Jo det beste er kasnkje en frontend med en eksempel-Wiki. Enkel variant av Ringenes Herre eller Harry Potter, også oppmuntres brukeren til å lage sin egen Wiki. 
+Vår ville vært Ædrasbane. 
+
+KUL MEN LITT MER AVANSERT FEATURE
+Det som hadde vært veldig kult hadde vært om man kunne seede en ny Wiki med et første utkast av en bok. Type opprette en helt tom Wiki også laste opp boken i pdf/word/txt 
+også få en wiki-generert. I hvert fall et utkast av det. Kanskje man også kunne gjort det kapittel for kapittel for litt mer kontroll. 
+
+Jeg tenker måten dette kunne bli oppnådd på er gjennom karakter og stedsnavn. Alt som ikke starter en setning men har en stor forbokstav kan være et Wiki-entry. 
+Kanskje man kan trekke inn en chatgpt-api til å avgjøre om det er en karakter eller et stedsnavn/objekt også lage en wiki-entry deretter. 
+
+Et eksempel er at navnet Ædras dukker opp, et wiki-page blir laget dedikert til Ædras. Chatgpt eller lingene leser gjennom boken og leter etter alle setninger som inneholder Ædras.
+Lager wiki-pagen basert en mal og informasjonen den finner i boken. Da kan den jo også kanskje finne motsigende informasjon som kan highlightes som rødt. Det betyr at vi må inn 
+å fikse det både i wiki og til andre utkast.  
