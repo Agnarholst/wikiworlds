@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("WikiWorldsApi")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4b90d7dea033357345308f738a63f3140adb4c2a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c5d8b5413ab989692fb89c4e63d901df63603fb9")]
 [assembly: System.Reflection.AssemblyProductAttribute("WikiWorldsApi")]
 [assembly: System.Reflection.AssemblyTitleAttribute("WikiWorldsApi")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Agnar\\Programming Projects\\wikiworlds\\WikiWorlds\\WikiWorldsApi\\WikiWorldsApi.csproj": {}
+    "/Users/agnarholst/ProgramingProjects/wikiworlds/WikiWorlds/WikiWorldsApi/WikiWorldsApi.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Agnar\\Programming Projects\\wikiworlds\\WikiWorlds\\WikiWorldsApi\\WikiWorldsApi.csproj": {
+    "/Users/agnarholst/ProgramingProjects/wikiworlds/WikiWorlds/WikiWorldsApi/WikiWorldsApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Agnar\\Programming Projects\\wikiworlds\\WikiWorlds\\WikiWorldsApi\\WikiWorldsApi.csproj",
+        "projectUniqueName": "/Users/agnarholst/ProgramingProjects/wikiworlds/WikiWorlds/WikiWorldsApi/WikiWorldsApi.csproj",
         "projectName": "WikiWorldsApi",
-        "projectPath": "C:\\Users\\Agnar\\Programming Projects\\wikiworlds\\WikiWorlds\\WikiWorldsApi\\WikiWorldsApi.csproj",
-        "packagesPath": "C:\\Users\\Agnar\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Agnar\\Programming Projects\\wikiworlds\\WikiWorlds\\WikiWorldsApi\\obj\\",
+        "projectPath": "/Users/agnarholst/ProgramingProjects/wikiworlds/WikiWorlds/WikiWorldsApi/WikiWorldsApi.csproj",
+        "packagesPath": "/Users/agnarholst/.nuget/packages/",
+        "outputPath": "/Users/agnarholst/ProgramingProjects/wikiworlds/WikiWorlds/WikiWorldsApi/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Agnar\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "/Users/agnarholst/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net9.0"
@@ -80,7 +80,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.305/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/9.0.305/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
